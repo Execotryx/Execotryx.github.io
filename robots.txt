@@ -1,0 +1,2 @@
+//robots file: deny all web crawlers
+deny from all
